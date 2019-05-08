@@ -48,7 +48,7 @@
         android:padding="10dp"
         android:textStyle="bold"
         android:textSize="14sp"
-        android:textColor="@android:color/black"/>
+        android:textColor="@android:color/white"/>
 
 
     <TextView
@@ -60,6 +60,6 @@
         android:text="02:58 PM"
         android:textSize="9sp"
         android:layout_marginRight="5dp"
-        android:layout_below="@+id/receiver_message_text"/>
+        android:layout_below="@+id/sender_message_text"/>
 
 </RelativeLayout>
